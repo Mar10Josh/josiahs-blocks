@@ -18,7 +18,7 @@ enum Cabinet1 {
  * Josiahs blocks
  */
 //% weight=100 color=#6ec2ff icon="ッ"
-namespace custom {
+namespace josiah {
     /**
      * Export wether something is less or greater then
      * @param n describe parameter here, eg: 5
